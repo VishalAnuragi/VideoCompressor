@@ -1,4 +1,4 @@
-package `in`.example.videocompressor
+package `in`.example.videocompressor.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
@@ -6,6 +6,8 @@ import android.content.Intent
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.activity.viewModels
 import androidx.databinding.DataBindingUtil
+import `in`.example.videocompressor.R
+import `in`.example.videocompressor.viewmodel.SelectVideoViewModel
 import `in`.example.videocompressor.databinding.MainActivityBinding
 
 class MainActivity : AppCompatActivity() {

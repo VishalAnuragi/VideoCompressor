@@ -7,13 +7,13 @@
 
         <variable
             name="viewModel"
-            type="in.example.videocompressor.SelectVideoViewModel" />
+            type="in.example.videocompressor.viewmodel.SelectVideoViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".MainActivity">
+        tools:context=".ui.MainActivity">
 
         <Button
             android:layout_width="wrap_content"

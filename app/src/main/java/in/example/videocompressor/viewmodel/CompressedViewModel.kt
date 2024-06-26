@@ -1,4 +1,4 @@
-package `in`.example.videocompressor
+package `in`.example.videocompressor.viewmodel
 
 import android.net.Uri
 import androidx.lifecycle.LiveData

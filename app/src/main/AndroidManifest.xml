@@ -13,13 +13,13 @@
         android:theme="@style/AppTheme"
         tools:targetApi="31">
         <activity
-            android:name=".CompressedActivity"
+            android:name=".ui.CompressedActivity"
             android:exported="false" />
         <activity
-            android:name=".VideoSelectedActivity"
+            android:name=".ui.VideoSelectedActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.MainActivity"
             android:exported="true"
             android:label="@string/app_name">
             <intent-filter>

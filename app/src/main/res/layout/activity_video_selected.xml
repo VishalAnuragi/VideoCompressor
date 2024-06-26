@@ -6,7 +6,7 @@
 
         <variable
             name="viewModel"
-            type="in.example.videocompressor.VideoSelectedViewModel" />
+            type="in.example.videocompressor.viewmodel.VideoSelectedViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

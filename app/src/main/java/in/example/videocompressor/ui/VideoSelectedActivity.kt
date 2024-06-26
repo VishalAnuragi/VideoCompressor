@@ -1,10 +1,12 @@
-package `in`.example.videocompressor
+package `in`.example.videocompressor.ui
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.databinding.DataBindingUtil
+import `in`.example.videocompressor.R
+import `in`.example.videocompressor.viewmodel.VideoSelectedViewModel
 import `in`.example.videocompressor.databinding.ActivityVideoSelectedBinding
 
 class VideoSelectedActivity : AppCompatActivity() {
