@@ -77,4 +77,13 @@ dependencies {
     implementation("androidx.fragment:fragment:1.3.0-beta01")
     implementation("androidx.activity:activity-ktx:1.2.0-beta01")
     implementation("com.arthenica:mobile-ffmpeg-full:4.4")
+
+    androidTestImplementation("androidx.test.ext:junit:1.1.1")
+    androidTestImplementation("androidx.test.espresso:espresso-core:3.2.0")
+   // implementation("com.google.android.exoplayer:exoplayer:2.10.8")
+    implementation("org.jsoup:jsoup:1.10.3")
+
+    implementation("com.github.bumptech.glide:glide:4.9.0")
+    annotationProcessor("com.github.bumptech.glide:compiler:4.9.0")
+    implementation("androidx.recyclerview:recyclerview:1.3.0-alpha01")
 }

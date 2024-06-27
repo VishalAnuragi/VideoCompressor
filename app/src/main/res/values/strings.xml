@@ -3,4 +3,6 @@
     <string name="select_video">Select Video</string>
     <string name="play">Play</string>
     <string name="pause">Pause</string>
+    <string name="video_recycler">Video Recycler</string>
+
 </resources>
